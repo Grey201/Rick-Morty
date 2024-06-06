@@ -16,7 +16,7 @@
 Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
 
 3. Клонируйте репозиторий вашего проекта:
-   ``` git clone https://github.com/ваш_пользователь/ваш_проект.git ```
+   ``` git clone https://github.com/Grey201/Rick-Morty.git ```
 4. Перейдите в каталог проекта:
 ```cd ваш_проект ```
 
